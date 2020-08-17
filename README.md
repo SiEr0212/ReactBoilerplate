@@ -4,6 +4,6 @@ A Boilerplate for my React-projects
 
 First steps:
 
-npx create-react-app my-app
-cd my-app
-npm start
+1. npx create-react-app my-app
+2. cd my-app
+3. npm start
